@@ -18,7 +18,7 @@ It highlights some of my projects, technical skills, and my background in a way 
 
 ## 🚀 Features
 
--  **Responsive** design — looks great on all screen sizes  
+-  **Responsive** design — looks good on all screen sizes  
 -  **Project showcase** with links to repos  
 -  **Contact form** with email functionality 
 -  **About me** section to learn more about me :)  
